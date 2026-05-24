@@ -1,0 +1,227 @@
+{
+  "blueprint_id": "MIAR 14 plans_pages5",
+  "page": 1,
+  "total_pages": 1,
+  "scale": "1/8\" = 1'-0\"",
+  "scale_confidence": "high",
+  "spaces": [
+    {
+      "id": "space_001",
+      "name": "UNEXCAVATED",
+      "type": "other",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 0,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "RECREATION ROOM"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "Large unexcavated area on left side of basement plan"
+    },
+    {
+      "id": "space_002",
+      "name": "RECREATION ROOM",
+      "type": "living",
+      "dimensions": {
+        "width_ft": 28.75,
+        "width_confidence": "high",
+        "length_ft": 20.83,
+        "length_confidence": "medium",
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 2,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": [
+          "BOX-OUT AROUND BEAM & COLUMN IN FINISHED AREAS"
+        ]
+      },
+      "adjacent_spaces": [
+        "UNEXCAVATED",
+        "DEN",
+        "DECK ABOVE"
+      ],
+      "uncertain_fields": [
+        "length_ft",
+        "area_sqft",
+        "door_count"
+      ],
+      "notes": "Main recreation room with beam and column boxing requirements noted"
+    },
+    {
+      "id": "space_003",
+      "name": "DECK ABOVE",
+      "type": "other",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 0,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "RECREATION ROOM"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "Indicates deck structure above this area"
+    },
+    {
+      "id": "space_004",
+      "name": "DEN",
+      "type": "office",
+      "dimensions": {
+        "width_ft": 11.92,
+        "width_confidence": "high",
+        "length_ft": 15.33,
+        "length_confidence": "medium",
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "RECREATION ROOM",
+        "BATH #6",
+        "UNFINISHED BASEMENT"
+      ],
+      "uncertain_fields": [
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "Den room with dimensions 11'-11\" shown"
+    },
+    {
+      "id": "space_005",
+      "name": "BATH #6",
+      "type": "bathroom",
+      "dimensions": {
+        "width_ft": 5.58,
+        "width_confidence": "high",
+        "length_ft": 7.0,
+        "length_confidence": "medium",
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": [
+          "34\"X48\" fixture notation"
+        ]
+      },
+      "adjacent_spaces": [
+        "DEN",
+        "UNFINISHED BASEMENT"
+      ],
+      "uncertain_fields": [
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "Bathroom with specific fixture size notation"
+    },
+    {
+      "id": "space_006",
+      "name": "UNFINISHED BASEMENT",
+      "type": "utility",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": [
+          "SLOPE WALL W/ STAIR STRINGER",
+          "Circular element (possibly tank or utility)"
+        ]
+      },
+      "adjacent_spaces": [
+        "DEN",
+        "BATH #6"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "door_count"
+      ],
+      "notes": "Large unfinished basement area with stair access and utility elements"
+    }
+  ],
+  "structural": {
+    "exterior_wall_thickness_in": null,
+    "interior_wall_thickness_in": null,
+    "wall_confidence": "low"
+  },
+  "unmatched_annotations": [
+    "7 1/2\"",
+    "28'-9\"",
+    "HOLD DROP CLG. TO THIS SIDE OF BEAM",
+    "Various dimension callouts",
+    "Stair construction notes",
+    "Key Notes 1-10",
+    "General Notes 1-3"
+  ],
+  "extraction_warnings": [
+    "Many dimension callouts are present but difficult to associate with specific spaces",
+    "Some spaces have unclear boundaries making precise measurements uncertain",
+    "Multiple construction notes and specifications present but not room-specific"
+  ],
+  "_meta": {
+    "pass": 1,
+    "model": "claude-sonnet-4-20250514",
+    "timestamp": "2026-05-24T18:33:26.078673+00:00",
+    "input_tokens": 3748,
+    "output_tokens": 1690
+  }
+}

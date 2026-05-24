@@ -1,0 +1,5023 @@
+[
+  {
+    "page": 1,
+    "page_width_pts": 1224.0,
+    "page_height_pts": 792.0,
+    "word_count": 557,
+    "words": [
+      {
+        "text": "UNEXCAVATED",
+        "x0": 205.44,
+        "y0": 278.97,
+        "x1": 259.37,
+        "y1": 287.97,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "UNEXCAVATED",
+        "x0": 205.44,
+        "y0": 467.8,
+        "x1": 239.98,
+        "y1": 473.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "2",
+        "x0": 610.28,
+        "y0": 578.16,
+        "x1": 616.28,
+        "y1": 584.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "'",
+        "x0": 612.08,
+        "y0": 579.96,
+        "x1": 616.95,
+        "y1": 584.83,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.9
+      },
+      {
+        "text": "6",
+        "x0": 612.68,
+        "y0": 580.56,
+        "x1": 618.68,
+        "y1": 586.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "\"",
+        "x0": 614.48,
+        "y0": 582.36,
+        "x1": 619.71,
+        "y1": 587.59,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.2
+      },
+      {
+        "text": "DEN",
+        "x0": 650.64,
+        "y0": 635.97,
+        "x1": 665.93,
+        "y1": 644.97,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "2",
+        "x0": 579.96,
+        "y0": 611.08,
+        "x1": 585.96,
+        "y1": 617.08,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "'",
+        "x0": 581.76,
+        "y0": 610.41,
+        "x1": 586.63,
+        "y1": 615.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.9
+      },
+      {
+        "text": "4",
+        "x0": 582.36,
+        "y0": 608.68,
+        "x1": 588.36,
+        "y1": 614.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "\"",
+        "x0": 584.16,
+        "y0": 607.65,
+        "x1": 589.39,
+        "y1": 612.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.2
+      },
+      {
+        "text": "2",
+        "x0": 570.48,
+        "y0": 581.68,
+        "x1": 576.48,
+        "y1": 587.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "'",
+        "x0": 572.28,
+        "y0": 581.01,
+        "x1": 577.15,
+        "y1": 585.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.9
+      },
+      {
+        "text": "4",
+        "x0": 572.88,
+        "y0": 579.28,
+        "x1": 578.88,
+        "y1": 585.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "\"",
+        "x0": 574.68,
+        "y0": 578.25,
+        "x1": 579.91,
+        "y1": 583.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.2
+      },
+      {
+        "text": "BATH",
+        "x0": 556.2,
+        "y0": 614.08,
+        "x1": 567.65,
+        "y1": 620.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "#6",
+        "x0": 568.92,
+        "y0": 614.08,
+        "x1": 575.07,
+        "y1": 620.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "UP",
+        "x0": 423.96,
+        "y0": 498.44,
+        "x1": 431.41,
+        "y1": 504.41,
+        "font": "OQMMGJ+Arial",
+        "size": 6.0
+      },
+      {
+        "text": "6",
+        "x0": 387.65,
+        "y0": 486.04,
+        "x1": 393.49,
+        "y1": 488.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 387.65,
+        "y0": 485.07,
+        "x1": 393.49,
+        "y1": 486.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 387.65,
+        "y0": 483.48,
+        "x1": 393.49,
+        "y1": 485.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "4",
+        "x0": 387.65,
+        "y0": 481.0,
+        "x1": 393.49,
+        "y1": 483.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 387.65,
+        "y0": 479.51,
+        "x1": 393.49,
+        "y1": 480.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "3",
+        "x0": 387.65,
+        "y0": 441.4,
+        "x1": 393.49,
+        "y1": 444.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 387.65,
+        "y0": 440.43,
+        "x1": 393.49,
+        "y1": 441.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 387.65,
+        "y0": 438.84,
+        "x1": 393.49,
+        "y1": 440.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "7",
+        "x0": 387.65,
+        "y0": 436.36,
+        "x1": 393.49,
+        "y1": 438.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 387.65,
+        "y0": 434.87,
+        "x1": 393.49,
+        "y1": 436.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "8'-3\"",
+        "x0": 409.2,
+        "y0": 445.49,
+        "x1": 418.13,
+        "y1": 451.34,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "18'-9\"",
+        "x0": 532.2,
+        "y0": 445.49,
+        "x1": 543.65,
+        "y1": 451.34,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "3'-7\"",
+        "x0": 388.2,
+        "y0": 513.53,
+        "x1": 397.13,
+        "y1": 519.38,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1",
+        "x0": 416.88,
+        "y0": 404.44,
+        "x1": 419.55,
+        "y1": 410.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3",
+        "x0": 422.76,
+        "y0": 433.72,
+        "x1": 425.43,
+        "y1": 439.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "4",
+        "x0": 387.65,
+        "y0": 406.0,
+        "x1": 393.49,
+        "y1": 408.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 387.65,
+        "y0": 405.03,
+        "x1": 393.49,
+        "y1": 405.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 387.65,
+        "y0": 403.44,
+        "x1": 393.49,
+        "y1": 405.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "7",
+        "x0": 387.65,
+        "y0": 400.96,
+        "x1": 393.49,
+        "y1": 403.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 387.65,
+        "y0": 397.12,
+        "x1": 393.49,
+        "y1": 399.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 387.65,
+        "y0": 395.03,
+        "x1": 393.49,
+        "y1": 397.08,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 387.65,
+        "y0": 392.56,
+        "x1": 393.49,
+        "y1": 395.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 387.65,
+        "y0": 391.07,
+        "x1": 393.49,
+        "y1": 392.52,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "4",
+        "x0": 434.45,
+        "y0": 500.08,
+        "x1": 440.29,
+        "y1": 502.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 434.45,
+        "y0": 499.11,
+        "x1": 440.29,
+        "y1": 500.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 434.45,
+        "y0": 497.52,
+        "x1": 440.29,
+        "y1": 499.08,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "1",
+        "x0": 434.45,
+        "y0": 495.04,
+        "x1": 440.29,
+        "y1": 497.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "3",
+        "x0": 434.45,
+        "y0": 491.2,
+        "x1": 440.29,
+        "y1": 493.8,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 434.45,
+        "y0": 489.11,
+        "x1": 440.29,
+        "y1": 491.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "4",
+        "x0": 434.45,
+        "y0": 486.64,
+        "x1": 440.29,
+        "y1": 489.24,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 434.45,
+        "y0": 485.15,
+        "x1": 440.29,
+        "y1": 486.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "5",
+        "x0": 434.45,
+        "y0": 455.44,
+        "x1": 440.29,
+        "y1": 458.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 434.45,
+        "y0": 454.47,
+        "x1": 440.29,
+        "y1": 455.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 434.45,
+        "y0": 452.88,
+        "x1": 440.29,
+        "y1": 454.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "9",
+        "x0": 434.45,
+        "y0": 450.4,
+        "x1": 440.29,
+        "y1": 453.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 434.45,
+        "y0": 446.56,
+        "x1": 440.29,
+        "y1": 449.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 434.45,
+        "y0": 444.47,
+        "x1": 440.29,
+        "y1": 446.52,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "4",
+        "x0": 434.45,
+        "y0": 442.0,
+        "x1": 440.29,
+        "y1": 444.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 434.45,
+        "y0": 440.51,
+        "x1": 440.29,
+        "y1": 441.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "5",
+        "x0": 434.45,
+        "y0": 538.24,
+        "x1": 440.29,
+        "y1": 540.84,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 434.45,
+        "y0": 537.27,
+        "x1": 440.29,
+        "y1": 538.2,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 434.45,
+        "y0": 535.68,
+        "x1": 440.29,
+        "y1": 537.24,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "3",
+        "x0": 434.45,
+        "y0": 533.2,
+        "x1": 440.29,
+        "y1": 535.8,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 434.45,
+        "y0": 531.71,
+        "x1": 440.29,
+        "y1": 533.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "4'-4",
+        "x0": 422.52,
+        "y0": 513.53,
+        "x1": 430.02,
+        "y1": 519.38,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 431.4,
+        "y0": 513.53,
+        "x1": 439.85,
+        "y1": 519.38,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "23'-5\"",
+        "x0": 511.2,
+        "y0": 531.05,
+        "x1": 522.65,
+        "y1": 536.9,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "71",
+        "x0": 586.97,
+        "y0": 486.16,
+        "x1": 592.81,
+        "y1": 491.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 586.97,
+        "y0": 485.19,
+        "x1": 592.81,
+        "y1": 486.12,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 586.97,
+        "y0": 483.72,
+        "x1": 592.81,
+        "y1": 485.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "5",
+        "x0": 586.97,
+        "y0": 481.12,
+        "x1": 592.81,
+        "y1": 483.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 586.97,
+        "y0": 477.28,
+        "x1": 592.81,
+        "y1": 479.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 586.97,
+        "y0": 475.19,
+        "x1": 592.81,
+        "y1": 477.24,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 586.97,
+        "y0": 472.72,
+        "x1": 592.81,
+        "y1": 475.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 586.97,
+        "y0": 471.23,
+        "x1": 592.81,
+        "y1": 472.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "10'-0\"",
+        "x0": 661.8,
+        "y0": 382.73,
+        "x1": 673.25,
+        "y1": 388.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "2",
+        "x0": 683.16,
+        "y0": 337.36,
+        "x1": 685.83,
+        "y1": 343.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "11'-11\"",
+        "x0": 651.84,
+        "y0": 677.33,
+        "x1": 665.81,
+        "y1": 683.18,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "3'-2\"",
+        "x0": 533.52,
+        "y0": 625.61,
+        "x1": 542.45,
+        "y1": 631.46,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "5'-7\"",
+        "x0": 573.0,
+        "y0": 625.61,
+        "x1": 581.93,
+        "y1": 631.46,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "4",
+        "x0": 554.45,
+        "y0": 626.44,
+        "x1": 560.29,
+        "y1": 629.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 554.45,
+        "y0": 625.47,
+        "x1": 560.29,
+        "y1": 626.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 554.45,
+        "y0": 623.88,
+        "x1": 560.29,
+        "y1": 625.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "0",
+        "x0": 554.45,
+        "y0": 621.4,
+        "x1": 560.29,
+        "y1": 624.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 554.45,
+        "y0": 619.91,
+        "x1": 560.29,
+        "y1": 621.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "1",
+        "x0": 554.45,
+        "y0": 649.0,
+        "x1": 560.29,
+        "y1": 651.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 554.45,
+        "y0": 648.03,
+        "x1": 560.29,
+        "y1": 648.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 554.45,
+        "y0": 646.44,
+        "x1": 560.29,
+        "y1": 648.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "0",
+        "x0": 554.45,
+        "y0": 643.96,
+        "x1": 560.29,
+        "y1": 646.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 554.45,
+        "y0": 642.47,
+        "x1": 560.29,
+        "y1": 643.92,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "5",
+        "x0": 554.45,
+        "y0": 669.76,
+        "x1": 560.29,
+        "y1": 672.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 554.45,
+        "y0": 665.8,
+        "x1": 560.29,
+        "y1": 668.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 554.45,
+        "y0": 663.83,
+        "x1": 560.29,
+        "y1": 665.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 554.45,
+        "y0": 661.24,
+        "x1": 560.29,
+        "y1": 663.84,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 554.45,
+        "y0": 659.87,
+        "x1": 560.29,
+        "y1": 661.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "5",
+        "x0": 524.57,
+        "y0": 659.92,
+        "x1": 530.41,
+        "y1": 662.52,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 524.57,
+        "y0": 655.96,
+        "x1": 530.41,
+        "y1": 658.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 524.57,
+        "y0": 653.99,
+        "x1": 530.41,
+        "y1": 656.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 524.57,
+        "y0": 651.4,
+        "x1": 530.41,
+        "y1": 654.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 524.57,
+        "y0": 650.03,
+        "x1": 530.41,
+        "y1": 651.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "1'-8",
+        "x0": 552.72,
+        "y0": 590.33,
+        "x1": 560.22,
+        "y1": 596.18,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 561.6,
+        "y0": 590.33,
+        "x1": 570.05,
+        "y1": 596.18,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "4",
+        "x0": 554.45,
+        "y0": 585.16,
+        "x1": 560.29,
+        "y1": 587.76,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 554.45,
+        "y0": 584.19,
+        "x1": 560.29,
+        "y1": 585.12,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 554.45,
+        "y0": 582.6,
+        "x1": 560.29,
+        "y1": 584.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "7",
+        "x0": 554.45,
+        "y0": 580.12,
+        "x1": 560.29,
+        "y1": 582.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 554.45,
+        "y0": 578.63,
+        "x1": 560.29,
+        "y1": 580.08,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "3'-2\"",
+        "x0": 530.88,
+        "y0": 590.33,
+        "x1": 539.81,
+        "y1": 596.18,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "3'-7\"",
+        "x0": 582.0,
+        "y0": 590.33,
+        "x1": 590.93,
+        "y1": 596.18,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "31",
+        "x0": 694.01,
+        "y0": 635.32,
+        "x1": 699.85,
+        "y1": 640.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 694.01,
+        "y0": 634.35,
+        "x1": 699.85,
+        "y1": 635.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 694.01,
+        "y0": 632.88,
+        "x1": 699.85,
+        "y1": 634.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "4",
+        "x0": 694.01,
+        "y0": 630.28,
+        "x1": 699.85,
+        "y1": 632.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 694.01,
+        "y0": 628.91,
+        "x1": 699.85,
+        "y1": 630.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "5",
+        "x0": 586.97,
+        "y0": 628.72,
+        "x1": 592.81,
+        "y1": 631.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 586.97,
+        "y0": 627.75,
+        "x1": 592.81,
+        "y1": 628.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 586.97,
+        "y0": 626.16,
+        "x1": 592.81,
+        "y1": 627.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "0",
+        "x0": 586.97,
+        "y0": 623.68,
+        "x1": 592.81,
+        "y1": 626.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 586.97,
+        "y0": 622.19,
+        "x1": 592.81,
+        "y1": 623.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "4",
+        "x0": 586.97,
+        "y0": 589.36,
+        "x1": 592.81,
+        "y1": 591.96,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 586.97,
+        "y0": 588.39,
+        "x1": 592.81,
+        "y1": 589.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 586.97,
+        "y0": 586.8,
+        "x1": 592.81,
+        "y1": 588.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "01",
+        "x0": 586.97,
+        "y0": 581.68,
+        "x1": 592.81,
+        "y1": 586.92,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 586.97,
+        "y0": 577.84,
+        "x1": 592.81,
+        "y1": 580.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 586.97,
+        "y0": 575.75,
+        "x1": 592.81,
+        "y1": 577.8,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 586.97,
+        "y0": 573.28,
+        "x1": 592.81,
+        "y1": 575.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 586.97,
+        "y0": 571.79,
+        "x1": 592.81,
+        "y1": 573.24,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "SLOPE",
+        "x0": 485.4,
+        "y0": 488.44,
+        "x1": 499.74,
+        "y1": 494.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WALL",
+        "x0": 501.0,
+        "y0": 488.44,
+        "x1": 513.54,
+        "y1": 494.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "W/",
+        "x0": 514.92,
+        "y0": 488.44,
+        "x1": 521.46,
+        "y1": 494.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIR",
+        "x0": 486.0,
+        "y0": 495.76,
+        "x1": 497.92,
+        "y1": 501.77,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STRINGER",
+        "x0": 499.2,
+        "y0": 495.76,
+        "x1": 520.96,
+        "y1": 501.77,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "UNFINISHED",
+        "x0": 371.52,
+        "y0": 653.25,
+        "x1": 415.37,
+        "y1": 662.25,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "BASEMENT",
+        "x0": 417.36,
+        "y0": 653.25,
+        "x1": 456.93,
+        "y1": 662.25,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "13'-4",
+        "x0": 303.6,
+        "y0": 445.49,
+        "x1": 313.62,
+        "y1": 451.34,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 315.0,
+        "y0": 445.49,
+        "x1": 323.45,
+        "y1": 451.34,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "2",
+        "x0": 397.92,
+        "y0": 530.56,
+        "x1": 403.92,
+        "y1": 536.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "'",
+        "x0": 399.72,
+        "y0": 529.89,
+        "x1": 404.59,
+        "y1": 534.76,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.9
+      },
+      {
+        "text": "8",
+        "x0": 400.32,
+        "y0": 528.16,
+        "x1": 406.32,
+        "y1": 534.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "\"",
+        "x0": 402.12,
+        "y0": 527.13,
+        "x1": 407.35,
+        "y1": 532.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.2
+      },
+      {
+        "text": "3",
+        "x0": 416.81,
+        "y0": 546.88,
+        "x1": 422.65,
+        "y1": 549.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 416.81,
+        "y0": 545.91,
+        "x1": 422.65,
+        "y1": 546.84,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 416.81,
+        "y0": 544.32,
+        "x1": 422.65,
+        "y1": 545.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "4",
+        "x0": 416.81,
+        "y0": 541.84,
+        "x1": 422.65,
+        "y1": 544.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 416.81,
+        "y0": 540.35,
+        "x1": 422.65,
+        "y1": 541.8,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "17'-7",
+        "x0": 480.84,
+        "y0": 545.21,
+        "x1": 490.86,
+        "y1": 551.06,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 492.24,
+        "y0": 545.21,
+        "x1": 500.69,
+        "y1": 551.06,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "3'-7\"",
+        "x0": 582.0,
+        "y0": 545.21,
+        "x1": 590.93,
+        "y1": 551.06,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "2'-2",
+        "x0": 603.84,
+        "y0": 545.21,
+        "x1": 611.34,
+        "y1": 551.06,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 612.72,
+        "y0": 545.21,
+        "x1": 621.17,
+        "y1": 551.06,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "32",
+        "x0": 693.65,
+        "y0": 293.44,
+        "x1": 699.49,
+        "y1": 298.68,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 693.65,
+        "y0": 292.47,
+        "x1": 699.49,
+        "y1": 293.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 693.65,
+        "y0": 291.0,
+        "x1": 699.49,
+        "y1": 292.56,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "2",
+        "x0": 693.65,
+        "y0": 288.4,
+        "x1": 699.49,
+        "y1": 291.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 693.65,
+        "y0": 287.03,
+        "x1": 699.49,
+        "y1": 288.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "28'-9\"",
+        "x0": 577.32,
+        "y0": 201.77,
+        "x1": 588.77,
+        "y1": 207.62,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "04",
+        "x0": 468.53,
+        "y0": 381.76,
+        "x1": 474.37,
+        "y1": 387.0,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 468.53,
+        "y0": 380.79,
+        "x1": 474.37,
+        "y1": 381.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 468.53,
+        "y0": 379.32,
+        "x1": 474.37,
+        "y1": 380.88,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "7",
+        "x0": 468.53,
+        "y0": 376.72,
+        "x1": 474.37,
+        "y1": 379.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 468.53,
+        "y0": 372.88,
+        "x1": 474.37,
+        "y1": 375.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 468.53,
+        "y0": 370.79,
+        "x1": 474.37,
+        "y1": 372.84,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 468.53,
+        "y0": 368.32,
+        "x1": 474.37,
+        "y1": 370.92,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 468.53,
+        "y0": 366.83,
+        "x1": 474.37,
+        "y1": 368.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "BOX-OUT",
+        "x0": 517.56,
+        "y0": 315.28,
+        "x1": 538.33,
+        "y1": 321.29,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AROUND",
+        "x0": 539.64,
+        "y0": 315.28,
+        "x1": 560.5,
+        "y1": 321.29,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BEAM",
+        "x0": 561.84,
+        "y0": 315.28,
+        "x1": 575.03,
+        "y1": 321.29,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "&",
+        "x0": 576.24,
+        "y0": 315.28,
+        "x1": 579.88,
+        "y1": 321.29,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "COLUMN",
+        "x0": 516.0,
+        "y0": 322.6,
+        "x1": 537.44,
+        "y1": 328.61,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "IN",
+        "x0": 538.8,
+        "y0": 322.6,
+        "x1": 543.56,
+        "y1": 328.61,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FINISHED",
+        "x0": 545.04,
+        "y0": 322.6,
+        "x1": 565.3,
+        "y1": 328.61,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AREAS",
+        "x0": 566.64,
+        "y0": 322.6,
+        "x1": 581.4,
+        "y1": 328.61,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "7'-2",
+        "x0": 409.68,
+        "y0": 201.77,
+        "x1": 417.18,
+        "y1": 207.62,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 418.56,
+        "y0": 201.77,
+        "x1": 427.01,
+        "y1": 207.62,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "L",
+        "x0": 596.56,
+        "y0": 489.68,
+        "x1": 602.57,
+        "y1": 491.76,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": ".",
+        "x0": 596.56,
+        "y0": 488.35,
+        "x1": 602.57,
+        "y1": 489.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.2
+      },
+      {
+        "text": "T",
+        "x0": 596.56,
+        "y0": 486.48,
+        "x1": 602.57,
+        "y1": 488.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.9
+      },
+      {
+        "text": ".",
+        "x0": 596.56,
+        "y0": 485.35,
+        "x1": 602.57,
+        "y1": 486.6,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.2
+      },
+      {
+        "text": "HOLD",
+        "x0": 584.4,
+        "y0": 271.12,
+        "x1": 597.7,
+        "y1": 277.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DROP",
+        "x0": 599.16,
+        "y0": 271.12,
+        "x1": 612.69,
+        "y1": 277.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CLG.",
+        "x0": 614.04,
+        "y0": 271.12,
+        "x1": 625.69,
+        "y1": 277.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 627.12,
+        "y0": 271.12,
+        "x1": 636.64,
+        "y1": 277.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "HVAC",
+        "x0": 637.92,
+        "y0": 271.12,
+        "x1": 652.03,
+        "y1": 277.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 593.28,
+        "y0": 278.44,
+        "x1": 599.38,
+        "y1": 284.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THIS",
+        "x0": 600.84,
+        "y0": 278.44,
+        "x1": 609.6,
+        "y1": 284.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SIDE",
+        "x0": 611.04,
+        "y0": 278.44,
+        "x1": 620.82,
+        "y1": 284.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 622.08,
+        "y0": 278.44,
+        "x1": 628.73,
+        "y1": 284.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BEAM",
+        "x0": 630.12,
+        "y0": 278.44,
+        "x1": 643.3,
+        "y1": 284.45,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "5",
+        "x0": 580.08,
+        "y0": 568.0,
+        "x1": 582.75,
+        "y1": 574.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "5",
+        "x0": 649.08,
+        "y0": 581.92,
+        "x1": 651.75,
+        "y1": 587.93,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "88",
+        "x0": 333.48,
+        "y0": 420.04,
+        "x1": 336.15,
+        "y1": 426.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1100",
+        "x0": 324.0,
+        "y0": 600.04,
+        "x1": 329.29,
+        "y1": 606.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DECK",
+        "x0": 687.6,
+        "y0": 483.09,
+        "x1": 707.77,
+        "y1": 492.09,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "ABOVE",
+        "x0": 709.68,
+        "y0": 483.09,
+        "x1": 734.53,
+        "y1": 492.09,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "51",
+        "x0": 468.53,
+        "y0": 635.2,
+        "x1": 474.37,
+        "y1": 640.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 468.53,
+        "y0": 634.23,
+        "x1": 474.37,
+        "y1": 635.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 468.53,
+        "y0": 632.76,
+        "x1": 474.37,
+        "y1": 634.32,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "0",
+        "x0": 468.53,
+        "y0": 630.16,
+        "x1": 474.37,
+        "y1": 632.76,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "1",
+        "x0": 468.53,
+        "y0": 626.32,
+        "x1": 474.37,
+        "y1": 628.92,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "/",
+        "x0": 468.53,
+        "y0": 624.23,
+        "x1": 474.37,
+        "y1": 626.28,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.1
+      },
+      {
+        "text": "2",
+        "x0": 468.53,
+        "y0": 621.76,
+        "x1": 474.37,
+        "y1": 624.36,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 468.53,
+        "y0": 620.27,
+        "x1": 474.37,
+        "y1": 621.72,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "9",
+        "x0": 378.05,
+        "y0": 475.48,
+        "x1": 383.89,
+        "y1": 478.08,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "'",
+        "x0": 378.05,
+        "y0": 474.51,
+        "x1": 383.89,
+        "y1": 475.44,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 0.9
+      },
+      {
+        "text": "-",
+        "x0": 378.05,
+        "y0": 472.92,
+        "x1": 383.89,
+        "y1": 474.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.6
+      },
+      {
+        "text": "1",
+        "x0": 378.05,
+        "y0": 470.44,
+        "x1": 383.89,
+        "y1": 473.04,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.6
+      },
+      {
+        "text": "\"",
+        "x0": 378.05,
+        "y0": 468.95,
+        "x1": 383.89,
+        "y1": 470.4,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 1.5
+      },
+      {
+        "text": "4'-4",
+        "x0": 422.52,
+        "y0": 513.53,
+        "x1": 430.02,
+        "y1": 519.38,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "1/2\"",
+        "x0": 431.4,
+        "y0": 513.53,
+        "x1": 439.85,
+        "y1": 519.38,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 5.8
+      },
+      {
+        "text": "6",
+        "x0": 691.68,
+        "y0": 610.84,
+        "x1": 694.35,
+        "y1": 616.85,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "2",
+        "x0": 726.4,
+        "y0": 641.66,
+        "x1": 732.41,
+        "y1": 644.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.5
+      },
+      {
+        "text": "x",
+        "x0": 726.4,
+        "y0": 639.47,
+        "x1": 732.41,
+        "y1": 641.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.2
+      },
+      {
+        "text": "8",
+        "x0": 726.4,
+        "y0": 636.98,
+        "x1": 732.41,
+        "y1": 639.48,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.5
+      },
+      {
+        "text": "H",
+        "x0": 726.4,
+        "y0": 632.55,
+        "x1": 732.41,
+        "y1": 635.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 3.1
+      },
+      {
+        "text": "D",
+        "x0": 726.4,
+        "y0": 629.28,
+        "x1": 732.41,
+        "y1": 632.64,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 3.4
+      },
+      {
+        "text": "R",
+        "x0": 726.4,
+        "y0": 626.42,
+        "x1": 732.41,
+        "y1": 629.16,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 2.7
+      },
+      {
+        "text": "RECREATION",
+        "x0": 517.68,
+        "y0": 369.45,
+        "x1": 564.65,
+        "y1": 378.45,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "ROOM",
+        "x0": 566.64,
+        "y0": 369.45,
+        "x1": 589.09,
+        "y1": 378.45,
+        "font": "OQMMGJ+Arial",
+        "size": 9.0
+      },
+      {
+        "text": "34\"X48\"",
+        "x0": 529.08,
+        "y0": 608.8,
+        "x1": 544.63,
+        "y1": 614.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RESIDENCE",
+        "x0": 1046.16,
+        "y0": 570.96,
+        "x1": 1092.58,
+        "y1": 580.96,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 10.0
+      },
+      {
+        "text": "FOR:",
+        "x0": 1095.12,
+        "y0": 570.96,
+        "x1": 1114.79,
+        "y1": 580.96,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 10.0
+      },
+      {
+        "text": "S",
+        "x0": 1102.96,
+        "y0": 753.23,
+        "x1": 1108.97,
+        "y1": 756.36,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.1
+      },
+      {
+        "text": "h",
+        "x0": 1102.96,
+        "y0": 749.63,
+        "x1": 1108.97,
+        "y1": 753.24,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.6
+      },
+      {
+        "text": "ee",
+        "x0": 1102.96,
+        "y0": 742.07,
+        "x1": 1108.97,
+        "y1": 749.64,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.8
+      },
+      {
+        "text": "t",
+        "x0": 1102.96,
+        "y0": 740.28,
+        "x1": 1108.97,
+        "y1": 742.08,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.8
+      },
+      {
+        "text": "I",
+        "x0": 1110.16,
+        "y0": 763.2,
+        "x1": 1116.17,
+        "y1": 764.88,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.7
+      },
+      {
+        "text": "n",
+        "x0": 1110.16,
+        "y0": 759.59,
+        "x1": 1116.17,
+        "y1": 763.2,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.6
+      },
+      {
+        "text": "f",
+        "x0": 1110.16,
+        "y0": 757.92,
+        "x1": 1116.17,
+        "y1": 759.6,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.7
+      },
+      {
+        "text": "o",
+        "x0": 1110.16,
+        "y0": 754.07,
+        "x1": 1116.17,
+        "y1": 757.92,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.8
+      },
+      {
+        "text": "r",
+        "x0": 1110.16,
+        "y0": 752.28,
+        "x1": 1116.17,
+        "y1": 754.2,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.9
+      },
+      {
+        "text": "m",
+        "x0": 1110.16,
+        "y0": 746.63,
+        "x1": 1116.17,
+        "y1": 752.28,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.7
+      },
+      {
+        "text": "a",
+        "x0": 1110.16,
+        "y0": 742.67,
+        "x1": 1116.17,
+        "y1": 746.64,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 4.0
+      },
+      {
+        "text": "t",
+        "x0": 1110.16,
+        "y0": 740.88,
+        "x1": 1116.17,
+        "y1": 742.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.8
+      },
+      {
+        "text": "i",
+        "x0": 1110.16,
+        "y0": 739.32,
+        "x1": 1116.17,
+        "y1": 740.76,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 1.4
+      },
+      {
+        "text": "o",
+        "x0": 1110.16,
+        "y0": 735.47,
+        "x1": 1116.17,
+        "y1": 739.32,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.8
+      },
+      {
+        "text": "n",
+        "x0": 1110.16,
+        "y0": 731.99,
+        "x1": 1116.17,
+        "y1": 735.6,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 3.6
+      },
+      {
+        "text": "Job",
+        "x0": 960.0,
+        "y0": 634.52,
+        "x1": 970.57,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Number:",
+        "x0": 972.24,
+        "y0": 634.52,
+        "x1": 997.2,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Drawing",
+        "x0": 1021.56,
+        "y0": 634.52,
+        "x1": 1045.45,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Date:",
+        "x0": 1047.12,
+        "y0": 634.52,
+        "x1": 1062.48,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Coord",
+        "x0": 1084.92,
+        "y0": 634.52,
+        "x1": 1102.93,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Name:",
+        "x0": 1104.6,
+        "y0": 634.52,
+        "x1": 1124.16,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Coord",
+        "x0": 1147.08,
+        "y0": 634.52,
+        "x1": 1165.09,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Phone:",
+        "x0": 1166.76,
+        "y0": 634.52,
+        "x1": 1186.44,
+        "y1": 640.48,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "House",
+        "x0": 960.0,
+        "y0": 653.6,
+        "x1": 977.89,
+        "y1": 659.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Name:",
+        "x0": 979.56,
+        "y0": 653.6,
+        "x1": 999.0,
+        "y1": 659.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Series:",
+        "x0": 1147.08,
+        "y0": 671.6,
+        "x1": 1165.44,
+        "y1": 677.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Plan",
+        "x0": 1147.08,
+        "y0": 689.72,
+        "x1": 1159.57,
+        "y1": 695.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "No.:",
+        "x0": 1161.12,
+        "y0": 689.72,
+        "x1": 1172.76,
+        "y1": 695.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Drawing",
+        "x0": 1063.68,
+        "y0": 653.8,
+        "x1": 1088.49,
+        "y1": 659.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "Scale:",
+        "x0": 1090.32,
+        "y0": 653.8,
+        "x1": 1108.19,
+        "y1": 659.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1/8\"",
+        "x0": 1109.88,
+        "y0": 653.8,
+        "x1": 1121.1,
+        "y1": 659.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "=",
+        "x0": 1122.84,
+        "y0": 653.8,
+        "x1": 1126.48,
+        "y1": 659.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1'0\"",
+        "x0": 1128.12,
+        "y0": 653.8,
+        "x1": 1137.78,
+        "y1": 659.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "Contract",
+        "x0": 1147.08,
+        "y0": 653.6,
+        "x1": 1172.4,
+        "y1": 659.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Drawn",
+        "x0": 1174.2,
+        "y0": 653.6,
+        "x1": 1192.57,
+        "y1": 659.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "By:",
+        "x0": 1194.24,
+        "y0": 653.6,
+        "x1": 1203.12,
+        "y1": 659.56,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "(",
+        "x0": 1000.32,
+        "y0": 753.63,
+        "x1": 1001.65,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": ")",
+        "x0": 1011.96,
+        "y0": 753.63,
+        "x1": 1013.29,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "The",
+        "x0": 1014.36,
+        "y0": 753.63,
+        "x1": 1020.66,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Drees",
+        "x0": 1021.8,
+        "y0": 753.63,
+        "x1": 1031.72,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Company.",
+        "x0": 1032.84,
+        "y0": 753.63,
+        "x1": 1051.96,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "All",
+        "x0": 1053.0,
+        "y0": 753.63,
+        "x1": 1057.2,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Rights",
+        "x0": 1058.4,
+        "y0": 753.63,
+        "x1": 1068.8,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Reserved.",
+        "x0": 1069.92,
+        "y0": 753.63,
+        "x1": 1087.6,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Space",
+        "x0": 960.0,
+        "y0": 353.35,
+        "x1": 972.68,
+        "y1": 358.41,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "for",
+        "x0": 973.8,
+        "y0": 353.35,
+        "x1": 978.82,
+        "y1": 358.41,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "Architect",
+        "x0": 980.16,
+        "y0": 353.35,
+        "x1": 997.82,
+        "y1": 358.41,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "Seal",
+        "x0": 999.0,
+        "y0": 353.35,
+        "x1": 1007.41,
+        "y1": 358.41,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "6860",
+        "x0": 970.32,
+        "y0": 761.07,
+        "x1": 978.2,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "West",
+        "x0": 979.2,
+        "y0": 761.07,
+        "x1": 987.74,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Snowville",
+        "x0": 988.8,
+        "y0": 761.07,
+        "x1": 1005.54,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Road,",
+        "x0": 1006.68,
+        "y0": 761.07,
+        "x1": 1017.16,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Suite",
+        "x0": 1018.2,
+        "y0": 761.07,
+        "x1": 1026.78,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "105,",
+        "x0": 1027.92,
+        "y0": 761.07,
+        "x1": 1034.68,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Brecksville,",
+        "x0": 1035.84,
+        "y0": 761.07,
+        "x1": 1055.44,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "OH",
+        "x0": 1056.6,
+        "y0": 761.07,
+        "x1": 1062.18,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "44141-3242",
+        "x0": 1064.28,
+        "y0": 761.07,
+        "x1": 1083.08,
+        "y1": 765.58,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Phone:",
+        "x0": 1007.28,
+        "y0": 766.71,
+        "x1": 1019.68,
+        "y1": 771.22,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "[440]",
+        "x0": 1021.8,
+        "y0": 766.71,
+        "x1": 1030.15,
+        "y1": 771.22,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "717-9670",
+        "x0": 1031.16,
+        "y0": 766.71,
+        "x1": 1046.12,
+        "y1": 771.22,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Born",
+        "x0": 1100.28,
+        "y0": 707.72,
+        "x1": 1113.13,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "on",
+        "x0": 1114.8,
+        "y0": 707.72,
+        "x1": 1122.13,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Date:",
+        "x0": 1123.8,
+        "y0": 707.72,
+        "x1": 1139.16,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "CDs",
+        "x0": 1147.08,
+        "y0": 707.72,
+        "x1": 1158.61,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Drawn",
+        "x0": 1160.28,
+        "y0": 707.72,
+        "x1": 1178.65,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "By:",
+        "x0": 1180.32,
+        "y0": 707.72,
+        "x1": 1189.08,
+        "y1": 713.68,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.0
+      },
+      {
+        "text": "Copyright",
+        "x0": 967.08,
+        "y0": 753.63,
+        "x1": 984.62,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "\u00a9",
+        "x0": 985.68,
+        "y0": 753.63,
+        "x1": 988.37,
+        "y1": 758.14,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Standard",
+        "x0": 960.0,
+        "y0": 698.47,
+        "x1": 977.92,
+        "y1": 703.53,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "House",
+        "x0": 979.08,
+        "y0": 698.47,
+        "x1": 991.16,
+        "y1": 703.53,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "3D",
+        "x0": 992.28,
+        "y0": 698.47,
+        "x1": 997.4,
+        "y1": 703.53,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "Model",
+        "x0": 998.64,
+        "y0": 698.47,
+        "x1": 1011.01,
+        "y1": 703.53,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "Link:",
+        "x0": 1012.2,
+        "y0": 698.47,
+        "x1": 1020.78,
+        "y1": 703.53,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 5.1
+      },
+      {
+        "text": "1",
+        "x0": 1207.3,
+        "y0": 772.26,
+        "x1": 1212.18,
+        "y1": 774.48,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "/",
+        "x0": 1207.3,
+        "y0": 771.09,
+        "x1": 1212.18,
+        "y1": 772.2,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "41",
+        "x0": 1207.3,
+        "y0": 766.86,
+        "x1": 1212.18,
+        "y1": 771.24,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "/",
+        "x0": 1207.3,
+        "y0": 765.81,
+        "x1": 1212.18,
+        "y1": 766.92,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "6202",
+        "x0": 1207.3,
+        "y0": 757.14,
+        "x1": 1212.18,
+        "y1": 765.96,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "8",
+        "x0": 1207.3,
+        "y0": 754.02,
+        "x1": 1212.18,
+        "y1": 756.24,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": ":",
+        "x0": 1207.3,
+        "y0": 752.85,
+        "x1": 1212.18,
+        "y1": 753.96,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "64",
+        "x0": 1207.3,
+        "y0": 748.62,
+        "x1": 1212.18,
+        "y1": 753.0,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": ":",
+        "x0": 1207.3,
+        "y0": 747.57,
+        "x1": 1212.18,
+        "y1": 748.68,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "52",
+        "x0": 1207.3,
+        "y0": 743.22,
+        "x1": 1212.18,
+        "y1": 747.72,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "A",
+        "x0": 1207.3,
+        "y0": 739.66,
+        "x1": 1212.18,
+        "y1": 742.32,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "M",
+        "x0": 1207.3,
+        "y0": 736.47,
+        "x1": 1212.18,
+        "y1": 739.8,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.3
+      },
+      {
+        "text": "K",
+        "x0": 10.9,
+        "y0": 771.81,
+        "x1": 15.78,
+        "y1": 774.48,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "\\:",
+        "x0": 10.9,
+        "y0": 769.77,
+        "x1": 15.78,
+        "y1": 771.84,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "C",
+        "x0": 10.9,
+        "y0": 766.91,
+        "x1": 15.78,
+        "y1": 769.8,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "no",
+        "x0": 10.9,
+        "y0": 762.54,
+        "x1": 15.78,
+        "y1": 767.04,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "t",
+        "x0": 10.9,
+        "y0": 761.49,
+        "x1": 15.78,
+        "y1": 762.6,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "r",
+        "x0": 10.9,
+        "y0": 760.19,
+        "x1": 15.78,
+        "y1": 761.52,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "a",
+        "x0": 10.9,
+        "y0": 758.1,
+        "x1": 15.78,
+        "y1": 760.32,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "c",
+        "x0": 10.9,
+        "y0": 756.16,
+        "x1": 15.78,
+        "y1": 758.16,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.0
+      },
+      {
+        "text": "t",
+        "x0": 10.9,
+        "y0": 755.01,
+        "x1": 15.78,
+        "y1": 756.12,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "s",
+        "x0": 10.9,
+        "y0": 753.16,
+        "x1": 15.78,
+        "y1": 755.16,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.0
+      },
+      {
+        "text": "\\",
+        "x0": 10.9,
+        "y0": 752.01,
+        "x1": 15.78,
+        "y1": 753.12,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "M",
+        "x0": 10.9,
+        "y0": 748.83,
+        "x1": 15.78,
+        "y1": 752.16,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.3
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 747.69,
+        "x1": 15.78,
+        "y1": 748.8,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "D",
+        "x0": 10.9,
+        "y0": 744.95,
+        "x1": 15.78,
+        "y1": 747.84,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "W",
+        "x0": 10.9,
+        "y0": 741.19,
+        "x1": 15.78,
+        "y1": 744.96,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.8
+      },
+      {
+        "text": "SE",
+        "x0": 10.9,
+        "y0": 736.17,
+        "x1": 15.78,
+        "y1": 741.36,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "T",
+        "x0": 10.9,
+        "y0": 733.76,
+        "x1": 15.78,
+        "y1": 736.2,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.4
+      },
+      {
+        "text": "\\",
+        "x0": 10.9,
+        "y0": 732.81,
+        "x1": 15.78,
+        "y1": 733.92,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "C",
+        "x0": 10.9,
+        "y0": 729.95,
+        "x1": 15.78,
+        "y1": 732.84,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 728.97,
+        "x1": 15.78,
+        "y1": 730.08,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "CN",
+        "x0": 10.9,
+        "y0": 723.35,
+        "x1": 15.78,
+        "y1": 729.0,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 722.37,
+        "x1": 15.78,
+        "y1": 723.48,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "NN",
+        "x0": 10.9,
+        "y0": 716.75,
+        "x1": 15.78,
+        "y1": 722.4,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "A",
+        "x0": 10.9,
+        "y0": 714.1,
+        "x1": 15.78,
+        "y1": 716.76,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "T",
+        "x0": 10.9,
+        "y0": 711.8,
+        "x1": 15.78,
+        "y1": 714.24,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.4
+      },
+      {
+        "text": "\\I",
+        "x0": 10.9,
+        "y0": 709.77,
+        "x1": 15.78,
+        "y1": 711.84,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "M",
+        "x0": 10.9,
+        "y0": 706.47,
+        "x1": 15.78,
+        "y1": 709.8,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.3
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 705.45,
+        "x1": 15.78,
+        "y1": 706.56,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "A",
+        "x0": 10.9,
+        "y0": 702.94,
+        "x1": 15.78,
+        "y1": 705.6,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "R",
+        "x0": 10.9,
+        "y0": 700.07,
+        "x1": 15.78,
+        "y1": 702.96,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "\\",
+        "x0": 10.9,
+        "y0": 699.09,
+        "x1": 15.78,
+        "y1": 700.2,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "M",
+        "x0": 10.9,
+        "y0": 695.79,
+        "x1": 15.78,
+        "y1": 699.12,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.3
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 694.77,
+        "x1": 15.78,
+        "y1": 695.88,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "A",
+        "x0": 10.9,
+        "y0": 692.14,
+        "x1": 15.78,
+        "y1": 694.8,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "R",
+        "x0": 10.9,
+        "y0": 689.39,
+        "x1": 15.78,
+        "y1": 692.28,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "-",
+        "x0": 10.9,
+        "y0": 688.07,
+        "x1": 15.78,
+        "y1": 689.4,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "4100",
+        "x0": 10.9,
+        "y0": 679.38,
+        "x1": 15.78,
+        "y1": 688.2,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "-",
+        "x0": 10.9,
+        "y0": 677.99,
+        "x1": 15.78,
+        "y1": 679.32,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "00",
+        "x0": 10.9,
+        "y0": 673.62,
+        "x1": 15.78,
+        "y1": 678.12,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "\\",
+        "x0": 10.9,
+        "y0": 672.57,
+        "x1": 15.78,
+        "y1": 673.68,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "M",
+        "x0": 10.9,
+        "y0": 669.39,
+        "x1": 15.78,
+        "y1": 672.72,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 3.3
+      },
+      {
+        "text": "I",
+        "x0": 10.9,
+        "y0": 668.25,
+        "x1": 15.78,
+        "y1": 669.36,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "A",
+        "x0": 10.9,
+        "y0": 665.74,
+        "x1": 15.78,
+        "y1": 668.4,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.7
+      },
+      {
+        "text": "R",
+        "x0": 10.9,
+        "y0": 662.87,
+        "x1": 15.78,
+        "y1": 665.76,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.9
+      },
+      {
+        "text": "-",
+        "x0": 10.9,
+        "y0": 661.67,
+        "x1": 15.78,
+        "y1": 663.0,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "4100",
+        "x0": 10.9,
+        "y0": 652.86,
+        "x1": 15.78,
+        "y1": 661.68,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": "-",
+        "x0": 10.9,
+        "y0": 651.59,
+        "x1": 15.78,
+        "y1": 652.92,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "00",
+        "x0": 10.9,
+        "y0": 647.22,
+        "x1": 15.78,
+        "y1": 651.6,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.2
+      },
+      {
+        "text": ".",
+        "x0": 10.9,
+        "y0": 646.05,
+        "x1": 15.78,
+        "y1": 647.16,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "r",
+        "x0": 10.9,
+        "y0": 644.87,
+        "x1": 15.78,
+        "y1": 646.2,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.3
+      },
+      {
+        "text": "v",
+        "x0": 10.9,
+        "y0": 642.88,
+        "x1": 15.78,
+        "y1": 644.88,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 2.0
+      },
+      {
+        "text": "t",
+        "x0": 10.9,
+        "y0": 641.85,
+        "x1": 15.78,
+        "y1": 642.96,
+        "font": "RUJZLV+ArialNarrow",
+        "size": 1.1
+      },
+      {
+        "text": "STRUBBE",
+        "x0": 1049.88,
+        "y0": 583.74,
+        "x1": 1111.65,
+        "y1": 603.82,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 20.1
+      },
+      {
+        "text": "TBD",
+        "x0": 1071.96,
+        "y0": 604.45,
+        "x1": 1089.09,
+        "y1": 617.01,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 12.6
+      },
+      {
+        "text": "MIAMI",
+        "x0": 1043.64,
+        "y0": 620.05,
+        "x1": 1074.9,
+        "y1": 632.61,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 12.6
+      },
+      {
+        "text": "RESERVE",
+        "x0": 1077.72,
+        "y0": 620.05,
+        "x1": 1117.52,
+        "y1": 632.61,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 12.6
+      },
+      {
+        "text": "MIAR-0014-00",
+        "x0": 972.36,
+        "y0": 642.78,
+        "x1": 1015.7,
+        "y1": 650.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "1/8/26",
+        "x0": 1058.04,
+        "y0": 642.78,
+        "x1": 1078.46,
+        "y1": 650.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "C.",
+        "x0": 1116.36,
+        "y0": 642.78,
+        "x1": 1123.33,
+        "y1": 650.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "MATT",
+        "x0": 1125.12,
+        "y0": 642.78,
+        "x1": 1141.15,
+        "y1": 650.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "SERIES_III",
+        "x0": 1175.76,
+        "y0": 678.78,
+        "x1": 1203.25,
+        "y1": 686.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "PLAN_NM",
+        "x0": 1173.24,
+        "y0": 696.78,
+        "x1": 1203.17,
+        "y1": 704.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "1.02",
+        "x0": 1141.8,
+        "y0": 727.57,
+        "x1": 1183.32,
+        "y1": 754.07,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 26.5
+      },
+      {
+        "text": "Elevation",
+        "x0": 1138.92,
+        "y0": 763.05,
+        "x1": 1172.8,
+        "y1": 772.63,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 9.6
+      },
+      {
+        "text": "\"A\"",
+        "x0": 1174.92,
+        "y0": 763.05,
+        "x1": 1186.08,
+        "y1": 772.63,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 9.6
+      },
+      {
+        "text": "Lower",
+        "x0": 1126.8,
+        "y0": 753.21,
+        "x1": 1143.45,
+        "y1": 759.76,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.6
+      },
+      {
+        "text": "Level",
+        "x0": 1145.04,
+        "y0": 753.21,
+        "x1": 1159.78,
+        "y1": 759.76,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.6
+      },
+      {
+        "text": "Framing",
+        "x0": 1161.48,
+        "y0": 753.21,
+        "x1": 1184.46,
+        "y1": 759.76,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.6
+      },
+      {
+        "text": "Plan",
+        "x0": 1186.08,
+        "y0": 753.21,
+        "x1": 1198.27,
+        "y1": 759.76,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 6.6
+      },
+      {
+        "text": "859.578.4212",
+        "x0": 1163.64,
+        "y0": 642.78,
+        "x1": 1203.25,
+        "y1": 650.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "the",
+        "x0": 960.0,
+        "y0": 667.75,
+        "x1": 983.49,
+        "y1": 684.32,
+        "font": "YIAGEF+Arial,Bold",
+        "size": 16.6
+      },
+      {
+        "text": "CRESTWOOD",
+        "x0": 987.84,
+        "y0": 667.75,
+        "x1": 1091.7,
+        "y1": 684.32,
+        "font": "YIAGEF+Arial,Bold",
+        "size": 16.6
+      },
+      {
+        "text": "CDS",
+        "x0": 1190.4,
+        "y0": 660.78,
+        "x1": 1203.37,
+        "y1": 668.89,
+        "font": "OFKMKM+CenturyGothic,Bold",
+        "size": 8.1
+      },
+      {
+        "text": "04/08/2016",
+        "x0": 1111.08,
+        "y0": 714.89,
+        "x1": 1141.83,
+        "y1": 721.49,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.6
+      },
+      {
+        "text": "BLC",
+        "x0": 1194.12,
+        "y0": 714.89,
+        "x1": 1205.04,
+        "y1": 721.49,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.6
+      },
+      {
+        "text": "2016",
+        "x0": 989.88,
+        "y0": 753.51,
+        "x1": 997.75,
+        "y1": 758.02,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "2025",
+        "x0": 1002.72,
+        "y0": 753.51,
+        "x1": 1010.59,
+        "y1": 758.02,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "https://autode.sk/4pdLCUw",
+        "x0": 1023.6,
+        "y0": 698.43,
+        "x1": 1071.96,
+        "y1": 702.94,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 4.5
+      },
+      {
+        "text": "Key",
+        "x0": 959.76,
+        "y0": 95.87,
+        "x1": 971.15,
+        "y1": 103.91,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 8.0
+      },
+      {
+        "text": "Notes:",
+        "x0": 972.96,
+        "y0": 95.87,
+        "x1": 992.63,
+        "y1": 103.91,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 8.0
+      },
+      {
+        "text": "1",
+        "x0": 961.32,
+        "y0": 113.68,
+        "x1": 963.99,
+        "y1": 119.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "2",
+        "x0": 961.32,
+        "y0": 127.12,
+        "x1": 963.99,
+        "y1": 133.13,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3",
+        "x0": 961.32,
+        "y0": 140.68,
+        "x1": 963.99,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "4",
+        "x0": 961.32,
+        "y0": 154.24,
+        "x1": 963.99,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CATTLE-RAIL",
+        "x0": 971.52,
+        "y0": 154.24,
+        "x1": 998.94,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AT",
+        "x0": 1000.32,
+        "y0": 154.24,
+        "x1": 1005.85,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIRS",
+        "x0": 1007.16,
+        "y0": 154.24,
+        "x1": 1021.44,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RE:",
+        "x0": 1022.76,
+        "y0": 154.24,
+        "x1": 1029.49,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SPECIFICATION",
+        "x0": 1030.8,
+        "y0": 154.24,
+        "x1": 1065.68,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "MANUAL",
+        "x0": 1067.04,
+        "y0": 154.24,
+        "x1": 1087.26,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1088.64,
+        "y0": 154.24,
+        "x1": 1098.16,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DETAILS",
+        "x0": 1099.56,
+        "y0": 154.24,
+        "x1": 1116.96,
+        "y1": 160.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "5",
+        "x0": 961.32,
+        "y0": 167.68,
+        "x1": 963.99,
+        "y1": 173.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "6",
+        "x0": 961.32,
+        "y0": 181.24,
+        "x1": 963.99,
+        "y1": 187.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "7",
+        "x0": 961.32,
+        "y0": 194.8,
+        "x1": 963.99,
+        "y1": 200.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "8",
+        "x0": 961.32,
+        "y0": 208.24,
+        "x1": 963.99,
+        "y1": 214.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "9",
+        "x0": 961.32,
+        "y0": 221.8,
+        "x1": 963.99,
+        "y1": 227.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "10",
+        "x0": 960.24,
+        "y0": 235.36,
+        "x1": 965.53,
+        "y1": 241.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "General",
+        "x0": 959.76,
+        "y0": 23.75,
+        "x1": 985.29,
+        "y1": 31.79,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 8.0
+      },
+      {
+        "text": "Notes:",
+        "x0": 987.12,
+        "y0": 23.75,
+        "x1": 1006.79,
+        "y1": 31.79,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 8.0
+      },
+      {
+        "text": "1.",
+        "x0": 958.92,
+        "y0": 39.4,
+        "x1": 963.01,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "REFER",
+        "x0": 964.32,
+        "y0": 39.4,
+        "x1": 977.56,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 978.84,
+        "y0": 39.4,
+        "x1": 985.06,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SHEET",
+        "x0": 986.4,
+        "y0": 39.4,
+        "x1": 999.25,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "0N.1",
+        "x0": 1000.56,
+        "y0": 39.4,
+        "x1": 1010.9,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1012.2,
+        "y0": 39.4,
+        "x1": 1021.72,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "GENERAL",
+        "x0": 1023.0,
+        "y0": 39.4,
+        "x1": 1044.54,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "NOTES.",
+        "x0": 1045.92,
+        "y0": 39.4,
+        "x1": 1061.89,
+        "y1": 45.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "2.",
+        "x0": 958.92,
+        "y0": 46.72,
+        "x1": 963.01,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "REFER",
+        "x0": 964.32,
+        "y0": 46.72,
+        "x1": 977.56,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 978.84,
+        "y0": 46.72,
+        "x1": 985.06,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SELECTION",
+        "x0": 986.4,
+        "y0": 46.72,
+        "x1": 1010.96,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SHEETS",
+        "x0": 1012.44,
+        "y0": 46.72,
+        "x1": 1027.55,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1028.88,
+        "y0": 46.72,
+        "x1": 1038.4,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FLOORING",
+        "x0": 1039.68,
+        "y0": 46.72,
+        "x1": 1064.63,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "MATERIAL",
+        "x0": 1065.96,
+        "y0": 46.72,
+        "x1": 1088.1,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "PRIOR",
+        "x0": 1089.48,
+        "y0": 46.72,
+        "x1": 1103.44,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1104.72,
+        "y0": 46.72,
+        "x1": 1110.94,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CONSTRUCTING",
+        "x0": 1112.28,
+        "y0": 46.72,
+        "x1": 1149.23,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIRS",
+        "x0": 1150.56,
+        "y0": 46.72,
+        "x1": 1164.83,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1166.16,
+        "y0": 46.72,
+        "x1": 1172.26,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DETERMINE",
+        "x0": 1173.72,
+        "y0": 46.72,
+        "x1": 1198.98,
+        "y1": 52.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RISER",
+        "x0": 958.92,
+        "y0": 54.04,
+        "x1": 970.84,
+        "y1": 60.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "HEIGHTS.",
+        "x0": 972.12,
+        "y0": 54.04,
+        "x1": 992.41,
+        "y1": 60.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3.",
+        "x0": 958.92,
+        "y0": 61.36,
+        "x1": 963.01,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "REFER",
+        "x0": 964.32,
+        "y0": 61.36,
+        "x1": 977.56,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 978.84,
+        "y0": 61.36,
+        "x1": 985.06,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SHEETS",
+        "x0": 986.4,
+        "y0": 61.36,
+        "x1": 1001.51,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3.01",
+        "x0": 1002.96,
+        "y0": 61.36,
+        "x1": 1012.34,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "&",
+        "x0": 1013.76,
+        "y0": 61.36,
+        "x1": 1017.4,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3.02",
+        "x0": 1018.68,
+        "y0": 61.36,
+        "x1": 1028.06,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1029.48,
+        "y0": 61.36,
+        "x1": 1039.0,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FLOOR",
+        "x0": 1040.28,
+        "y0": 61.36,
+        "x1": 1056.28,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SYSTEM",
+        "x0": 1057.56,
+        "y0": 61.36,
+        "x1": 1073.98,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "INFORMATION.",
+        "x0": 1075.32,
+        "y0": 61.36,
+        "x1": 1109.65,
+        "y1": 67.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIRS",
+        "x0": 971.52,
+        "y0": 109.72,
+        "x1": 985.8,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 987.12,
+        "y0": 109.72,
+        "x1": 993.34,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BE",
+        "x0": 994.68,
+        "y0": 109.72,
+        "x1": 999.9,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "ENCLOSED",
+        "x0": 1001.28,
+        "y0": 109.72,
+        "x1": 1026.34,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WITH",
+        "x0": 1027.68,
+        "y0": 109.72,
+        "x1": 1038.65,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FULL",
+        "x0": 1040.04,
+        "y0": 109.72,
+        "x1": 1050.06,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "HEIGHT",
+        "x0": 1051.44,
+        "y0": 109.72,
+        "x1": 1068.01,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STUDS",
+        "x0": 1069.32,
+        "y0": 109.72,
+        "x1": 1082.88,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "@",
+        "x0": 1084.2,
+        "y0": 109.72,
+        "x1": 1088.37,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "16\"",
+        "x0": 1089.72,
+        "y0": 109.72,
+        "x1": 1096.61,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "O.C.",
+        "x0": 1098.0,
+        "y0": 109.72,
+        "x1": 1108.81,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AND",
+        "x0": 1110.24,
+        "y0": 109.72,
+        "x1": 1120.78,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DRYWALLED",
+        "x0": 1122.24,
+        "y0": 109.72,
+        "x1": 1149.94,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "ON",
+        "x0": 1151.4,
+        "y0": 109.72,
+        "x1": 1159.16,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "INTERIOR",
+        "x0": 1160.52,
+        "y0": 109.72,
+        "x1": 1180.96,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIRWELL",
+        "x0": 1182.24,
+        "y0": 109.72,
+        "x1": 1205.7,
+        "y1": 115.73,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "ONLY",
+        "x0": 971.52,
+        "y0": 117.04,
+        "x1": 984.45,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 985.68,
+        "y0": 117.04,
+        "x1": 991.78,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BOTTOM",
+        "x0": 993.12,
+        "y0": 117.04,
+        "x1": 1012.54,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 1013.88,
+        "y0": 117.04,
+        "x1": 1020.41,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THE",
+        "x0": 1021.8,
+        "y0": 117.04,
+        "x1": 1029.66,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RUN",
+        "x0": 1031.04,
+        "y0": 117.04,
+        "x1": 1040.6,
+        "y1": 123.05,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "2x4",
+        "x0": 971.52,
+        "y0": 127.24,
+        "x1": 979.1,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STUDS",
+        "x0": 980.52,
+        "y0": 127.24,
+        "x1": 994.08,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "HELD",
+        "x0": 995.4,
+        "y0": 127.24,
+        "x1": 1007.14,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1\"",
+        "x0": 1008.48,
+        "y0": 127.24,
+        "x1": 1012.73,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FROM",
+        "x0": 1014.0,
+        "y0": 127.24,
+        "x1": 1027.9,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOUNDATION",
+        "x0": 1029.24,
+        "y0": 127.24,
+        "x1": 1060.52,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WALL",
+        "x0": 1062.0,
+        "y0": 127.24,
+        "x1": 1074.42,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WITH",
+        "x0": 1075.8,
+        "y0": 127.24,
+        "x1": 1086.76,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3-1/2\"",
+        "x0": 1088.04,
+        "y0": 127.24,
+        "x1": 1101.41,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "INSULATION.",
+        "x0": 1102.8,
+        "y0": 127.24,
+        "x1": 1131.13,
+        "y1": 133.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RE:",
+        "x0": 971.52,
+        "y0": 140.68,
+        "x1": 978.25,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DETAIL",
+        "x0": 979.68,
+        "y0": 140.68,
+        "x1": 994.62,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "D",
+        "x0": 996.0,
+        "y0": 140.68,
+        "x1": 999.58,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "&",
+        "x0": 1000.92,
+        "y0": 140.68,
+        "x1": 1004.56,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "E/7.01",
+        "x0": 1005.96,
+        "y0": 140.68,
+        "x1": 1020.02,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1021.32,
+        "y0": 140.68,
+        "x1": 1030.96,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BASEMENT",
+        "x0": 1032.24,
+        "y0": 140.68,
+        "x1": 1055.89,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STAIR",
+        "x0": 1057.08,
+        "y0": 140.68,
+        "x1": 1069.0,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FRAMING",
+        "x0": 1070.28,
+        "y0": 140.68,
+        "x1": 1092.35,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DETAILS",
+        "x0": 1093.8,
+        "y0": 140.68,
+        "x1": 1111.19,
+        "y1": 146.69,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DROP",
+        "x0": 971.52,
+        "y0": 167.8,
+        "x1": 984.15,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CEILING",
+        "x0": 985.44,
+        "y0": 167.8,
+        "x1": 1003.17,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FOR",
+        "x0": 1004.52,
+        "y0": 167.8,
+        "x1": 1013.38,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "HVAC",
+        "x0": 1014.6,
+        "y0": 167.8,
+        "x1": 1027.86,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "(HOLD",
+        "x0": 1029.12,
+        "y0": 167.8,
+        "x1": 1043.15,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1044.48,
+        "y0": 167.8,
+        "x1": 1050.2,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BOTTOM",
+        "x0": 1051.44,
+        "y0": 167.8,
+        "x1": 1069.74,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 1070.88,
+        "y0": 167.8,
+        "x1": 1077.03,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "ADJACENT",
+        "x0": 1078.32,
+        "y0": 167.8,
+        "x1": 1101.72,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "STEEL",
+        "x0": 1102.92,
+        "y0": 167.8,
+        "x1": 1113.88,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BEAM)",
+        "x0": 1115.16,
+        "y0": 167.8,
+        "x1": 1129.06,
+        "y1": 173.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "RIPPED",
+        "x0": 971.52,
+        "y0": 181.24,
+        "x1": 986.39,
+        "y1": 187.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1x_",
+        "x0": 987.72,
+        "y0": 181.24,
+        "x1": 994.65,
+        "y1": 187.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WOOD",
+        "x0": 995.88,
+        "y0": 181.24,
+        "x1": 1011.35,
+        "y1": 187.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SILL",
+        "x0": 1012.68,
+        "y0": 181.24,
+        "x1": 1020.16,
+        "y1": 187.25,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "--",
+        "x0": 971.52,
+        "y0": 194.8,
+        "x1": 974.8,
+        "y1": 200.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "U--NFINISHED",
+        "x0": 971.52,
+        "y0": 206.08,
+        "x1": 998.5,
+        "y1": 214.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BASEMENT",
+        "x0": 999.96,
+        "y0": 206.08,
+        "x1": 1023.61,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CEILING",
+        "x0": 1024.8,
+        "y0": 206.08,
+        "x1": 1043.75,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1045.2,
+        "y0": 206.08,
+        "x1": 1051.3,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BE",
+        "x0": 1052.64,
+        "y0": 206.08,
+        "x1": 1057.98,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "COVERED",
+        "x0": 1059.24,
+        "y0": 206.08,
+        "x1": 1082.38,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "IN",
+        "x0": 1083.72,
+        "y0": 206.08,
+        "x1": 1088.48,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "1/2\u201dGYPSUM",
+        "x0": 1089.96,
+        "y0": 206.08,
+        "x1": 1120.78,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BOARD",
+        "x0": 1122.0,
+        "y0": 206.08,
+        "x1": 1138.9,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "(WITH",
+        "x0": 1140.24,
+        "y0": 206.08,
+        "x1": 1152.88,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THE",
+        "x0": 1154.16,
+        "y0": 206.08,
+        "x1": 1162.02,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "EXCEPTION",
+        "x0": 1163.4,
+        "y0": 206.08,
+        "x1": 1189.04,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 1190.4,
+        "y0": 206.08,
+        "x1": 1196.93,
+        "y1": 212.09,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THE",
+        "x0": 971.52,
+        "y0": 213.4,
+        "x1": 979.38,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "80",
+        "x0": 980.64,
+        "y0": 213.4,
+        "x1": 986.06,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SQ.",
+        "x0": 987.48,
+        "y0": 213.4,
+        "x1": 995.41,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FT.",
+        "x0": 996.72,
+        "y0": 213.4,
+        "x1": 1002.49,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AREA).",
+        "x0": 1003.8,
+        "y0": 213.4,
+        "x1": 1019.29,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "JOINTS",
+        "x0": 1020.6,
+        "y0": 213.4,
+        "x1": 1036.31,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DO",
+        "x0": 1037.64,
+        "y0": 213.4,
+        "x1": 1045.42,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "NOT",
+        "x0": 1046.76,
+        "y0": 213.4,
+        "x1": 1056.61,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "NEED",
+        "x0": 1057.92,
+        "y0": 213.4,
+        "x1": 1070.26,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1071.6,
+        "y0": 213.4,
+        "x1": 1077.7,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BE",
+        "x0": 1079.04,
+        "y0": 213.4,
+        "x1": 1084.38,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TAPED",
+        "x0": 1085.76,
+        "y0": 213.4,
+        "x1": 1100.14,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OR",
+        "x0": 1101.48,
+        "y0": 213.4,
+        "x1": 1108.6,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "MUDDED.",
+        "x0": 1109.88,
+        "y0": 213.4,
+        "x1": 1132.09,
+        "y1": 219.41,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "--",
+        "x0": 971.52,
+        "y0": 221.8,
+        "x1": 974.8,
+        "y1": 227.81,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "80",
+        "x0": 971.52,
+        "y0": 232.0,
+        "x1": 976.94,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SQ.",
+        "x0": 978.24,
+        "y0": 232.0,
+        "x1": 986.17,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FT.",
+        "x0": 987.6,
+        "y0": 232.0,
+        "x1": 993.25,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "MAX.",
+        "x0": 994.68,
+        "y0": 232.0,
+        "x1": 1006.69,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "AREA",
+        "x0": 1008.0,
+        "y0": 232.0,
+        "x1": 1020.44,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 1021.68,
+        "y0": 232.0,
+        "x1": 1028.21,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "CEILING,",
+        "x0": 1029.72,
+        "y0": 232.0,
+        "x1": 1049.89,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "COMPLYING",
+        "x0": 1051.32,
+        "y0": 232.0,
+        "x1": 1080.59,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "WITH",
+        "x0": 1081.92,
+        "y0": 232.0,
+        "x1": 1092.88,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "EXCEPTIONS",
+        "x0": 1094.28,
+        "y0": 232.0,
+        "x1": 1122.35,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3.1",
+        "x0": 1123.68,
+        "y0": 232.0,
+        "x1": 1130.42,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "+",
+        "x0": 1131.84,
+        "y0": 232.0,
+        "x1": 1134.75,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "3.2,",
+        "x0": 1136.16,
+        "y0": 232.0,
+        "x1": 1144.33,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "NOT",
+        "x0": 1145.64,
+        "y0": 232.0,
+        "x1": 1155.49,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "REQUIRING",
+        "x0": 1156.8,
+        "y0": 232.0,
+        "x1": 1182.59,
+        "y1": 238.01,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "--",
+        "x0": 971.52,
+        "y0": 235.36,
+        "x1": 974.8,
+        "y1": 241.37,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "DRYWALL.",
+        "x0": 971.52,
+        "y0": 239.32,
+        "x1": 994.45,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "PERIMETER",
+        "x0": 995.88,
+        "y0": 239.32,
+        "x1": 1019.68,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "EDGE",
+        "x0": 1020.96,
+        "y0": 239.32,
+        "x1": 1033.86,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "MUST",
+        "x0": 1035.24,
+        "y0": 239.32,
+        "x1": 1047.25,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "BE",
+        "x0": 1048.44,
+        "y0": 239.32,
+        "x1": 1053.78,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FIREBLOCKED",
+        "x0": 1055.04,
+        "y0": 239.32,
+        "x1": 1086.1,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "TO",
+        "x0": 1087.56,
+        "y0": 239.32,
+        "x1": 1093.66,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "KEEP",
+        "x0": 1095.0,
+        "y0": 239.32,
+        "x1": 1105.89,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "SEPARATE",
+        "x0": 1107.24,
+        "y0": 239.32,
+        "x1": 1129.26,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FROM",
+        "x0": 1130.64,
+        "y0": 239.32,
+        "x1": 1144.54,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THE",
+        "x0": 1145.76,
+        "y0": 239.32,
+        "x1": 1153.62,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "REST",
+        "x0": 1155.0,
+        "y0": 239.32,
+        "x1": 1164.85,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "OF",
+        "x0": 1166.04,
+        "y0": 239.32,
+        "x1": 1172.57,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "THE",
+        "x0": 1174.08,
+        "y0": 239.32,
+        "x1": 1181.94,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "FLOOR",
+        "x0": 1183.2,
+        "y0": 239.32,
+        "x1": 1199.2,
+        "y1": 245.33,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      },
+      {
+        "text": "ASSEMBLY.",
+        "x0": 971.52,
+        "y0": 246.64,
+        "x1": 995.65,
+        "y1": 252.65,
+        "font": "IWQCKC+CenturyGothic",
+        "size": 6.0
+      }
+    ]
+  }
+]
