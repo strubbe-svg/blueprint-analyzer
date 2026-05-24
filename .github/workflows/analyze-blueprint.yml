@@ -1,0 +1,91 @@
+name: Analyze Blueprint
+
+on:
+  push:
+    paths:
+      - 'data/input/*.pdf'
+  workflow_dispatch:
+    inputs:
+      pdf_filename:
+        description: 'PDF filename in data/input/ (e.g. floor_plan.pdf)'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install system dependencies (poppler for pdf2image)
+        run: sudo apt-get install -y --no-install-recommends poppler-utils
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Determine which PDF to analyze
+        id: get_pdf
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "pdf_path=data/input/${{ inputs.pdf_filename }}" >> $GITHUB_OUTPUT
+            echo "pdf_stem=$(basename '${{ inputs.pdf_filename }}' .pdf)" >> $GITHUB_OUTPUT
+          else
+            # Auto-detect the PDF added in this push
+            PDF=$(git diff --name-only HEAD~1 HEAD -- 'data/input/*.pdf' | head -1)
+            STEM=$(basename "$PDF" .pdf)
+            echo "pdf_path=${PDF}" >> $GITHUB_OUTPUT
+            echo "pdf_stem=${STEM}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Validate PDF exists
+        run: |
+          if [ ! -f "${{ steps.get_pdf.outputs.pdf_path }}" ]; then
+            echo "ERROR: ${{ steps.get_pdf.outputs.pdf_path }} not found in repo"
+            exit 1
+          fi
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python pipeline/main.py "${{ steps.get_pdf.outputs.pdf_path }}"
+
+      - name: Post report to job summary
+        if: always()
+        run: |
+          STEM="${{ steps.get_pdf.outputs.pdf_stem }}"
+          REPORT="data/output/${STEM}/report.md"
+          echo "## 🏗️ Blueprint Analysis: ${STEM}" >> $GITHUB_STEP_SUMMARY
+          if [ -f "$REPORT" ]; then
+            cat "$REPORT" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "_No report generated — check logs above._" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/output/
+          git diff --cached --quiet || \
+            git commit -m "analysis: ${{ steps.get_pdf.outputs.pdf_stem }} (run ${{ github.run_number }})"
+          git push
+
+      - name: Upload full output as artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: blueprint-output-${{ steps.get_pdf.outputs.pdf_stem }}-run${{ github.run_number }}
+          path: data/output/${{ steps.get_pdf.outputs.pdf_stem }}/
+          retention-days: 90
