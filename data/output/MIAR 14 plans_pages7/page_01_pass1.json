@@ -1,0 +1,492 @@
+{
+  "blueprint_id": "MIAR 14 plans_pages7",
+  "page": 1,
+  "total_pages": 1,
+  "scale": "1/8\" = 1'-0\"",
+  "scale_confidence": "high",
+  "spaces": [
+    {
+      "id": "space_001",
+      "name": "GARAGE",
+      "type": "garage",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 3,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": [
+          "9'0\" x 7'0\" garage door",
+          "16'0\" x 7'0\" garage door"
+        ]
+      },
+      "adjacent_spaces": [
+        "FAMILY FOYER"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": "Two garage doors of different sizes visible"
+    },
+    {
+      "id": "space_002",
+      "name": "FAMILY FOYER",
+      "type": "hallway",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 10.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 2,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "GARAGE",
+        "WORKING PANTRY"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "10'-1\" CLG. noted"
+    },
+    {
+      "id": "space_003",
+      "name": "WORKING PANTRY",
+      "type": "utility",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 10.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "FAMILY FOYER",
+        "KITCHEN"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "10'-1\" CLG. noted"
+    },
+    {
+      "id": "space_004",
+      "name": "KITCHEN",
+      "type": "kitchen",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 12.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 1,
+        "closet_count": 0,
+        "special_elements": [
+          "island",
+          "TAP & DRAIN"
+        ]
+      },
+      "adjacent_spaces": [
+        "WORKING PANTRY",
+        "MORNING ROOM",
+        "BUTLERS PANTRY"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "12'-1\" CEILING noted"
+    },
+    {
+      "id": "space_005",
+      "name": "MORNING ROOM",
+      "type": "dining",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 13.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 2,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "KITCHEN",
+        "OUTDOOR LIVING DECK"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "13'-1\" CLG. noted"
+    },
+    {
+      "id": "space_006",
+      "name": "BUTLERS PANTRY",
+      "type": "utility",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 2,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "KITCHEN",
+        "DINING"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": null
+    },
+    {
+      "id": "space_007",
+      "name": "DINING",
+      "type": "dining",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 1,
+        "closet_count": 0,
+        "special_elements": [
+          "TRAY CLG."
+        ]
+      },
+      "adjacent_spaces": [
+        "BUTLERS PANTRY",
+        "FOYER"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": "TRAY CLG. noted"
+    },
+    {
+      "id": "space_008",
+      "name": "FAMILY ROOM",
+      "type": "living",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 12.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 1,
+        "closet_count": 0,
+        "special_elements": [
+          "DIRECT VENT FIREPLACE"
+        ]
+      },
+      "adjacent_spaces": [
+        "FOYER",
+        "OUTDOOR LIVING DECK"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "12'-1\" CEILING noted, fireplace with detailed notes"
+    },
+    {
+      "id": "space_009",
+      "name": "FOYER",
+      "type": "hallway",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": [
+          "stairs",
+          "HVAC CHASE"
+        ]
+      },
+      "adjacent_spaces": [
+        "DINING",
+        "FAMILY ROOM",
+        "HOME OFFICE"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": "Contains staircase and HVAC chase"
+    },
+    {
+      "id": "space_010",
+      "name": "HOME OFFICE",
+      "type": "office",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 2,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "FOYER"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": null
+    },
+    {
+      "id": "space_011",
+      "name": "PRIMARY SUITE",
+      "type": "bedroom",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 12.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 2,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "PRIMARY BATH",
+        "W.I.C."
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "12'-1\" CEILING noted"
+    },
+    {
+      "id": "space_012",
+      "name": "W.I.C.",
+      "type": "closet",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "PRIMARY SUITE",
+        "PRIMARY BATH"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": "Walk-in closet"
+    },
+    {
+      "id": "space_013",
+      "name": "PRIMARY BATH",
+      "type": "bathroom",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": null,
+        "ceiling_confidence": null
+      },
+      "features": {
+        "door_count": 1,
+        "window_count": 1,
+        "closet_count": 0,
+        "special_elements": [
+          "shower with seat",
+          "34\"x60\" shower pan",
+          "NICHE"
+        ]
+      },
+      "adjacent_spaces": [
+        "PRIMARY SUITE",
+        "W.I.C."
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft",
+        "ceiling_height_ft"
+      ],
+      "notes": "Detailed shower specifications with seat and niche"
+    },
+    {
+      "id": "space_014",
+      "name": "OUTDOOR LIVING DECK",
+      "type": "other",
+      "dimensions": {
+        "width_ft": null,
+        "width_confidence": null,
+        "length_ft": null,
+        "length_confidence": null,
+        "area_sqft": null,
+        "area_confidence": null,
+        "ceiling_height_ft": 12.083,
+        "ceiling_confidence": "high"
+      },
+      "features": {
+        "door_count": 2,
+        "window_count": 0,
+        "closet_count": 0,
+        "special_elements": []
+      },
+      "adjacent_spaces": [
+        "MORNING ROOM",
+        "FAMILY ROOM"
+      ],
+      "uncertain_fields": [
+        "width_ft",
+        "length_ft",
+        "area_sqft"
+      ],
+      "notes": "12'-1\" CEILING noted, outdoor covered deck"
+    }
+  ],
+  "structural": {
+    "exterior_wall_thickness_in": null,
+    "interior_wall_thickness_in": null,
+    "wall_confidence": "low"
+  },
+  "unmatched_annotations": [
+    "STEPS TO GRADE",
+    "ATTIC ACCESS",
+    "UP",
+    "DN",
+    "PROVIDE 8' TALL DOORS THROUGHOUT FIRST FLOOR",
+    "U.N.O."
+  ],
+  "extraction_warnings": [
+    "Room dimensions not clearly labeled in most spaces",
+    "Wall thickness not clearly indicated",
+    "Many ceiling heights referenced but not all spaces have clear ceiling callouts"
+  ],
+  "_meta": {
+    "pass": 1,
+    "model": "claude-sonnet-4-20250514",
+    "timestamp": "2026-05-24T18:30:10.465397+00:00",
+    "input_tokens": 5871,
+    "output_tokens": 3507
+  }
+}
