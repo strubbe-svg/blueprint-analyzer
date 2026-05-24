@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       pdf_filename:
-        description: 'PDF filename in data/input/ (e.g. floor_plan.pdf)'
+        description: 'PDF filename in data/input/ (e.g. "MIAR 14 plans.pdf")'
         required: true
         type: string
       pages:
@@ -27,6 +27,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 2          # needed so HEAD~1 is available for push diff
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -44,34 +46,49 @@ jobs:
         id: get_pdf
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "pdf_path=data/input/${{ inputs.pdf_filename }}" >> $GITHUB_OUTPUT
-            echo "pdf_stem=$(basename '${{ inputs.pdf_filename }}' .pdf)" >> $GITHUB_OUTPUT
-            echo "pages=${{ inputs.pages }}" >> $GITHUB_OUTPUT
+            # Normalize: ensure filename ends in .pdf (handles user omitting extension)
+            RAW="${{ inputs.pdf_filename }}"
+            FILENAME="${RAW%.pdf}.pdf"
+            PDF_PATH="data/input/${FILENAME}"
+            STEM="${FILENAME%.pdf}"
           else
-            # Auto-detect the PDF added in this push (no page selection for auto-runs)
-            PDF=$(git diff --name-only HEAD~1 HEAD -- 'data/input/*.pdf' | head -1)
-            STEM=$(basename "$PDF" .pdf)
-            echo "pdf_path=${PDF}" >> $GITHUB_OUTPUT
-            echo "pdf_stem=${STEM}" >> $GITHUB_OUTPUT
-            echo "pages=" >> $GITHUB_OUTPUT
+            # Push trigger: find changed PDF, handle spaces with null-delimiter
+            PDF_PATH=$(git diff -z --name-only HEAD~1 HEAD -- 'data/input/*.pdf' \
+                        | tr '\0' '\n' | head -1)
+            FILENAME=$(basename "${PDF_PATH}")
+            STEM="${FILENAME%.pdf}"
           fi
+
+          # Write outputs — quote paths that may contain spaces
+          printf 'pdf_path=%s\n' "${PDF_PATH}"  >> "$GITHUB_OUTPUT"
+          printf 'pdf_stem=%s\n' "${STEM}"       >> "$GITHUB_OUTPUT"
+          printf 'pages=%s\n'    "${{ inputs.pages }}" >> "$GITHUB_OUTPUT"
+
+          echo "Resolved PDF : ${PDF_PATH}"
+          echo "Stem         : ${STEM}"
+          echo "Pages        : ${{ inputs.pages || '(all)' }}"
 
       - name: Validate PDF exists
         run: |
-          if [ ! -f "${{ steps.get_pdf.outputs.pdf_path }}" ]; then
-            echo "ERROR: ${{ steps.get_pdf.outputs.pdf_path }} not found in repo"
+          PDF_PATH="${{ steps.get_pdf.outputs.pdf_path }}"
+          if [ ! -f "${PDF_PATH}" ]; then
+            echo "ERROR: '${PDF_PATH}' not found in repo."
+            echo "Files in data/input/:"
+            ls -1 "data/input/"
             exit 1
           fi
+          echo "✓ Found: ${PDF_PATH}"
 
       - name: Run pipeline
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
+          PDF_PATH="${{ steps.get_pdf.outputs.pdf_path }}"
           PAGES="${{ steps.get_pdf.outputs.pages }}"
-          if [ -n "$PAGES" ]; then
-            python pipeline/main.py "${{ steps.get_pdf.outputs.pdf_path }}" --pages "$PAGES"
+          if [ -n "${PAGES}" ]; then
+            python pipeline/main.py "${PDF_PATH}" --pages "${PAGES}"
           else
-            python pipeline/main.py "${{ steps.get_pdf.outputs.pdf_path }}"
+            python pipeline/main.py "${PDF_PATH}"
           fi
 
       - name: Resolve output directory name
@@ -79,25 +96,27 @@ jobs:
         run: |
           STEM="${{ steps.get_pdf.outputs.pdf_stem }}"
           PAGES="${{ steps.get_pdf.outputs.pages }}"
-          if [ -n "$PAGES" ]; then
-            SAFE=$(echo "$PAGES" | tr ',' '_' | tr '-' 'to')
-            echo "outdir=data/output/${STEM}_pages${SAFE}" >> $GITHUB_OUTPUT
+          if [ -n "${PAGES}" ]; then
+            SAFE=$(printf '%s' "${PAGES}" | tr ',' '_' | tr '-' 'to')
+            echo "outdir=data/output/${STEM}_pages${SAFE}" >> "$GITHUB_OUTPUT"
           else
-            echo "outdir=data/output/${STEM}" >> $GITHUB_OUTPUT
+            echo "outdir=data/output/${STEM}" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Post report to job summary
         if: always()
         run: |
-          REPORT="${{ steps.get_outdir.outputs.outdir }}/report.md"
-          echo "## 🏗️ Blueprint Analysis: ${{ steps.get_pdf.outputs.pdf_stem }}" >> $GITHUB_STEP_SUMMARY
-          if [ -n "${{ steps.get_pdf.outputs.pages }}" ]; then
-            echo "**Pages analyzed:** ${{ steps.get_pdf.outputs.pages }}" >> $GITHUB_STEP_SUMMARY
+          OUTDIR="${{ steps.get_outdir.outputs.outdir }}"
+          REPORT="${OUTDIR}/report.md"
+          echo "## 🏗️ Blueprint Analysis: ${{ steps.get_pdf.outputs.pdf_stem }}" >> "$GITHUB_STEP_SUMMARY"
+          PAGES="${{ steps.get_pdf.outputs.pages }}"
+          if [ -n "${PAGES}" ]; then
+            echo "**Pages analyzed:** ${PAGES}" >> "$GITHUB_STEP_SUMMARY"
           fi
-          if [ -f "$REPORT" ]; then
-            cat "$REPORT" >> $GITHUB_STEP_SUMMARY
+          if [ -f "${REPORT}" ]; then
+            cat "${REPORT}" >> "$GITHUB_STEP_SUMMARY"
           else
-            echo "_No report generated — check logs above._" >> $GITHUB_STEP_SUMMARY
+            echo "_No report generated — check logs above._" >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - name: Commit results to repo
@@ -105,13 +124,15 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/output/
+          PAGES="${{ steps.get_pdf.outputs.pages }}"
+          LABEL="${PAGES:-all}"
           git diff --cached --quiet || \
-            git commit -m "analysis: ${{ steps.get_pdf.outputs.pdf_stem }} pages[${{ steps.get_pdf.outputs.pages || 'all' }}] (run ${{ github.run_number }})"
+            git commit -m "analysis: ${{ steps.get_pdf.outputs.pdf_stem }} pages[${LABEL}] (run ${{ github.run_number }})"
           git push
 
       - name: Upload full output as artifact
         uses: actions/upload-artifact@v5
         with:
-          name: blueprint-output-${{ steps.get_pdf.outputs.pdf_stem }}-run${{ github.run_number }}
+          name: blueprint-output-run${{ github.run_number }}
           path: ${{ steps.get_outdir.outputs.outdir }}/
           retention-days: 90
